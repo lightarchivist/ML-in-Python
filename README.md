@@ -2,4 +2,4 @@
 
 Machine Learning projects in Python for Network Engineers 
 
-Created during study at ATU
+Created during my study at ATU
