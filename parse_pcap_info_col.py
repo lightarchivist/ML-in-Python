@@ -64,6 +64,6 @@ def parse_and_save(input_path, output_path):
 
 if __name__ == '__main__':
     input_file = 'test_pcap.csv'   # input file
-    output_file = f'{input_file}_parsed.csv'  # output file
+    output_file = f'parsed_{input_file}'  # output file
 
     parse_and_save(input_file, output_file)
