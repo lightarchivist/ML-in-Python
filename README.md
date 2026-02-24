@@ -1,5 +1,5 @@
-# ML-in-Python
+# AI/ML-in-Python
 
-Machine Learning projects in Python for Network Engineers 
+AI/Machine Learning projects in Python for Network Engineers 
 
-Created during my study at ATU 2025-2026
+
